@@ -1,0 +1,12 @@
+AdvanceWars.gba
+CastlevaniaAOS.gba
+DrillDozer.gba
+FireEmblem.gba
+GoldenSun.gba
+MarioLuigiSSaga.gba
+MetroidZero.gba
+MetroidFusion.gba
+Mother3.gba
+PokemonEmerald.gba
+WarioLand4.gba
+WarioWare.gba
